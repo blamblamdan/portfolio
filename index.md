@@ -1,5 +1,5 @@
 ---
-title: Welcome to my programming portfolio
+title: Programming portfolio
 ---
 # Featured Projects
 - [**osrs_gph**](https://github.com/blamblamdan/osrs_gph) - Profit calculator for the game [Old School RuneScape](https://oldschool.runescape.com/) by [Jagex](https://jagex.com). Written in Rust 🦀
